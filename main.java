@@ -1,4 +1,4 @@
-class main{
+public class Main{
 
     public static void main(String [] args){
         
@@ -35,6 +35,9 @@ class main{
 
         int d = 50;
         System.out.println(a>b?(a>d?"a":"d"):(b>d?"b":"d"));
+
+        a++;
+        System.out.println(a);
 
 
     }
