@@ -67,7 +67,7 @@ class child extends parent
     }
 }
 
-class test
+class inheritance
 {
     public static void main(String[] args) {
 //        System.out.println(child.b);
